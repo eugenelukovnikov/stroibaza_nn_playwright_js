@@ -1,0 +1,9 @@
+node_modules
+devcontainer
+codesandbox
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
